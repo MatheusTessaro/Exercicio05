@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercicio05</string>
+
+    <string name="text">Bem-Vindo!!!</string>
+    <string name="add">Adicionar</string>
+    <string name="edit">Editar</string>
+    <string name="remove">Remover</string>
+    <string name="help">Ajuda</string>
+    <string name="add_message">Adicionar contato</string>
+    <string name="edit_message">Editar contato</string>
+    <string name="remove_message">Remover contato</string>
+    <string name="help_message">Ajuda</string>
+
+
+</resources>
